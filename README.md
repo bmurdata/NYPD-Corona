@@ -19,6 +19,8 @@ Analysis of NYPD Coronavirus(COVID-19) reported response and affected rate using
   
 # Progress-code to be posted after cleanup
 
--Scraped tweets using twint, generated SQL table and populated with  JSON objects.
+-Scraped tweets using twint, put into JSON file
+
+-Generated SQL table based on structure and populated with JSON objects.
 
 -Made inital CSV files of the tweets, analysis using Python ongoing.
